@@ -50,6 +50,10 @@ gapminder %>%
 
 
 
+## Challene 5: Create a reprex out of Challenge 1, and ask a good question of how to also
+## include the mean of world's gdp as points
+
+
 ## Bonus challenge!!
 ## Make a boxplot summarizing the meanLifeExpectancy for each continent (over all years)
 
